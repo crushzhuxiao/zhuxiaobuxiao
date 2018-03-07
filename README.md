@@ -1,2 +1,3 @@
 # zhuxiaobuxiao
-This is the first repository
+Hi Humans
+This is my GitHub
